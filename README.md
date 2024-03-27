@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bonns99
+- 👋 Hi, I’m Wilbon Kiprono
 - 👀 I’m interested in Node.js, Python Django 
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on advanced responsive and dynamic websites.
